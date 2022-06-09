@@ -1,0 +1,73 @@
+@import url(reset.css);
+@import url(fonts.css);
+
+.wrapp {
+    max-width: 1208px;
+    margin: 0 auto;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    margin-top: 35px;
+    margin-left: 15px;
+}
+.menu {
+    margin-top: 35px;
+    margin-right: 125px;
+    display: flex;
+    column-gap: 30px;
+    margin-top: 58px;
+    font-size: 17px;
+    font-family: mr ;
+    text-transform: uppercase;
+    padding-bottom: 56px;
+}
+.menu li a {
+    color: #494949;
+}
+
+.fon {
+    width: 100%;
+    background-color: #ed1c24;
+}
+.wrappe {
+    max-width: 1208px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 70px;
+}
+.left {
+}
+.text {
+    padding-top: 260px;
+    padding-bottom: 27px;
+}
+.maintext {
+    font-size: 50px;
+    color: #ffff;
+    font-family: mq;
+}
+.secondtext {
+    font-size: 25px;
+    font-family: r;
+    color: #ffff;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+.knopka {
+    font-family: mb;
+    padding-top: 43px;
+    padding-bottom: 305px;
+}
+.knopka a {
+    font-size: 20px;
+    color: #ffff;
+    border: 2px solid #ffff;
+    padding: 18px 45px;
+}
+.photopizza {
+    margin-top: 50px;
+}

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: mr;
+    src: url(../fonts/MYRIADPRO-REGULAR.woff);
+}
+
+@font-face {
+    font-family: mq;
+    src: url(../fonts/static/Montserrat-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: r;
+    src: url(../fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: mb;
+    src: url(../fonts/static/Montserrat-Bold.ttf);
+}
